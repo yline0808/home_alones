@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "414475408971",
+    "firebase_url": "https://invertible-star-250010.firebaseio.com",
+    "project_id": "invertible-star-250010",
+    "storage_bucket": "invertible-star-250010.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414475408971:android:c955d4b225e5949f",
+        "android_client_info": {
+          "package_name": "com.example.maintest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414475408971-r9ma4af8v3kf7ntl9h4bnignb9pdj137.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUdTj4rxgPJZklfm7B68TPbF3BI4xNmj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414475408971-r9ma4af8v3kf7ntl9h4bnignb9pdj137.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
